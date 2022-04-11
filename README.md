@@ -1,0 +1,1 @@
+this is exaple of using OAuth IdentityServer with k6
